@@ -38,7 +38,6 @@ Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton
     * Checkout my repos for more..
 
 * **3D Puzzle Game in UE4 (work in progress):** A 3D puzzle game focused on environmental manipulation, built using Unreal Engine 4.
-* **Personal Portfolio:** [Link to Your Portfolio Website](yourportfolio.com)
 
 ## Currently Seeking
 
@@ -46,7 +45,7 @@ I'm actively seeking **Internship** opportunities in the **Software Development*
 
 ## Connect with Me
 
-* LinkedIn: linkedin.com/in/somto-obidike-ikenna-089826272
+* LinkedIn: www.linkedin.com/in/somto-obidike-ikenna-089826272
 * Indeed: https://profile.indeed.com/p/somtochukwuo-90lw7qk
 
 Feel free to connect! Let's build awesome things together. ✨
