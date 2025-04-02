@@ -5,7 +5,7 @@ Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton
 ## Skills & Technologies
 
 **Languages:**
-* Proficient: C++
+* Proficient: C, C++
 * Familiar: Java, Python, JavaScript
 
 **Tools & Technologies:**
