@@ -1,4 +1,4 @@
-# Hi, I'm Somto! 3rd Year Comp. Sci. in Progress
+# Hi 👋🏽 I'm Somto! 3rd Year Comp. Sci. in Progress
 
 Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton University specializing in Computer Game Development. I'm driven by the challenge of creating engaging and immersive experiences through code. Currently navigating the exciting (and sometimes daunting!) world of job/internship searching to kickstart my career.
 
