@@ -1,4 +1,4 @@
-# Hi 👋🏽 I'm Somto! 3rd Year Comp. Sci. in Progress
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋🏽" width="50" height="50">Hi I'm Somto! 3rd Year Comp. Sci. in Progress  
 
 Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton University specializing in Computer Game Development. I'm driven by the challenge of creating engaging and immersive experiences through code. Currently navigating the exciting (and sometimes daunting!) world of job/internship searching to kickstart my career.
 
@@ -46,6 +46,6 @@ I'm actively seeking **Internship** opportunities in the **Software Development*
 ## Connect with Me
 
 * LinkedIn: www.linkedin.com/in/somto-obidike-ikenna-089826272
-* Indeed: https://profile.indeed.com/p/somtochukwuo-90lw7qk
+* Website: www.somto-dev-folio.com
 
 Feel free to connect! Let's build awesome things together. ✨
