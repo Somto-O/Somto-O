@@ -10,11 +10,9 @@ Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton
 
 **Tools & Technologies:**
 * Git
-* Godot Engine
 * Agile Methodologies
 * OpenGL
 * Shader Programming (GLSL)
-* Level Design Tools
 * UI/UX Principles
 
 **Concepts:**
