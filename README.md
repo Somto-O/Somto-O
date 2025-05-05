@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋🏽" width="50" height="50">Hi I'm Somto Obidike-Ikenna
 
-Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton University specializing in Computer Game Development. I'm driven by the challenge of creating engaging and immersive experiences through code. Currently navigating the exciting (and sometimes daunting!) world of job/internship searching to kickstart my career.
+Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton University specializing in Computer Game Development with a strong interest in AI/ML. I'm driven by the challenge of creating engaging and immersive experiences through code. Currently navigating the exciting (and sometimes daunting!) world of job/internship searching to kickstart my career.
 
 ## Skills & Technologies
 
