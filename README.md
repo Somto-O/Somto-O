@@ -23,22 +23,6 @@ Hey there! I'm Somto, a passionate 3rd-year Computer Science student at Carleton
 * Game Design Principles
 * Linear Algebra
 
-## Projects & Portfolio
-
-* **Insulin Pump Simulator:**
-    * A software application designed to simulate the core functionalities of an insulin pump.
-    * Key features include simulating insulin delivery rates, bolus calculations, user interface, etc.
-    * Developed using C++, Qt framework for the UI.
-    * Checkout my repos for more..
-
-* **2D WASD Cowboy Game (work in progress):**
-    * A fun and engaging 2D game where the player controls a cowboy character.
-    * Players use the WASD keys for movement and can shoot projectiles to defeat enemies.
-    * Developed using C, C++, OpenGL.
-    * Checkout my repos for more..
-
-* **3D Puzzle Game in UE4 (work in progress):** A 3D puzzle game focused on environmental manipulation, built using Unreal Engine 4.
-
 ## Currently Seeking
 
 I'm actively seeking **Internship** opportunities in the **Software Development** industry. I'm eager to learn from experienced professionals and contribute to exciting projects in Ottawa, Ontario or other regions; Also open to Remote.
