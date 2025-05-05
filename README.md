@@ -28,6 +28,6 @@ I'm actively seeking **Internship** opportunities in the **Software Development*
 ## Connect with Me
 
 * LinkedIn: www.linkedin.com/in/somto-obidike-ikenna-089826272
-* Website: www.somto-dev-folio.com
+* Website: www.somto-dev-folio.com  (in progress...)
 
 Feel free to connect! Let's build awesome things together. ✨
