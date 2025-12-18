@@ -27,8 +27,8 @@ I'm actively seeking **Internship** opportunities in the **Software Development*
 
 ## Connect with Me
 
-* LinkedIn: www.linkedin.com/in/somto-obidike-ikenna-089826272
-* Website: www.somto-dev-folio.com  (in progress...)
+* LinkedIn: https://www.linkedin.com/in/somto-obidike-ikenna/
+* Website: www.somto-dev-folio.com  (perpetually in CI/CD lol)
 
 ## 🐍 **GitHub Contribution Snake**  
 ![snake gif](https://github.com/tejazmali/tejazmali/blob/output/github-snake-dark.svg)  
